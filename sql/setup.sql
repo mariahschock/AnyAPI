@@ -7,7 +7,7 @@ CREATE table princesses (
   name VARCHAR NOT NULL,
   age INT NOT NULL,
   movie VARCHAR NOT NULL,
-  year, INT NOT NULL
+  year INT NOT NULL
 );
 
 INSERT INTO princesses (name, age, movie, year) VALUES
